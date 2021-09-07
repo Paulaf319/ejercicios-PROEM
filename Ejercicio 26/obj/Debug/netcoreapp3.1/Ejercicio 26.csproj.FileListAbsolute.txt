@@ -1,0 +1,12 @@
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.exe
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.deps.json
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.runtimeconfig.json
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.runtimeconfig.dev.json
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.dll
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\bin\Debug\netcoreapp3.1\Ejercicio 26.pdb
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.AssemblyInfoInputs.cache
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.AssemblyInfo.cs
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.csproj.CoreCompileInputs.cache
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.dll
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.pdb
+C:\Users\pauff\Downloads\Curso .NET\Ejercicios\VS\Ejercicios de Practica\Ejercicio 26\obj\Debug\netcoreapp3.1\Ejercicio 26.genruntimeconfig.cache
